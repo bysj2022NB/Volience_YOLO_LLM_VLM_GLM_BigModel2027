@@ -1,0 +1,2 @@
+# Volience_YOLO_LLM_VLM_GLM_BigModel2027
+【计算机毕业设计！新一代大模型毕业设计】LangChain+YOLO+VLM视觉多模态大模型的公共场所暴力安全智能检测分析预警系统 校园暴力检测预警系统
